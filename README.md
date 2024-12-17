@@ -1,6 +1,5 @@
-# JIRA_US_AUTOMATICALLY
+# Creates Jira US automatically when the Feature Toggle is defined with a due date.
 
-Creates Jira US automatically when the Feature Toggle is defined with a due date.
 This program was developed in Jul/2024
 
 SAP version: S/4 Hana
